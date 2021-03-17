@@ -3,6 +3,6 @@
 \contentsline {chapter}{\numberline {1}Introduzione}{2}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Obbiettivi}{3}{chapter.2}%
 \contentsline {chapter}{\numberline {3}Metodologie e sorgenti dati}{5}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Architettura e tecnologie utilizzate}{6}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Risultati}{7}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Commenti finali}{8}{chapter.6}%
+\contentsline {chapter}{\numberline {4}Architettura e tecnologie utilizzate}{7}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Risultati}{8}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Commenti finali}{9}{chapter.6}%
