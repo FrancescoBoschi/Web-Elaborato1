@@ -1,15 +1,16 @@
 \documentclass[a4paper,12pt]{report}
 \usepackage{xcolor}
 \usepackage{graphicx}
-\graphicspath{ {./images/} }
+\usepackage{enumerate}
 \usepackage[utf8]{inputenc}
 \usepackage{hyperref}
+\usepackage[italian]{babel}
+\graphicspath{ {./images/} }
 \hypersetup{
     colorlinks = false,
     linkbordercolor = {white},
     citebordercolor = {white}
 }
-\usepackage[italian]{babel}
 \title{%
   GlobalStat \\
   \large Web Semantico - Primo elaborato \\}
@@ -57,6 +58,20 @@ Considerando l'obbiettivo alla base del progetto e del carattere multidimensiona
 
 Emerge quindi come GlobalStat non miri solo e migliorare il lato strettamente economico di un paese, ma anche a informare sul modo in cui gli uomini vivono, le libertà di cui godono e i limiti che devono affrontare.
 \chapter{Metodologie e sorgenti dati}
+I dati raccolti sono sensibili al carattere di vasta portata del progetto; per questo motivo è stato necessario provvedere apposite metodologie atte a produrre statistiche effettivamente utili e soprattutto il più possibile affidabili.\newline
+GlobalStats fornisce dati sui 193 stati nazionali sovrani riconosciuti membri delle Nazioni Unite (ONU) \cite{ONU} e, sulla base di questi, fornisce una panoramica sulle prestazioni dei singoli stati, dei continenti, di undici comunità di cooperazione e integrazione regionale e di organizzazioni internazionali.\newline
+Questa forte cooperazione con le comunità è il pilastro principale dell'aggregazione dei dati effettuata da GlobalStat, in quanto tramite esse gli stati si impegnano in una collaborazione regionale per sostenersi a vicenda e migliorare lo sviluppo e le condizioni di vita.
+
+Sebbene tendenzialmente i confini tra stati siano statici nel tempo, per tenere traccia di eventuali separazioni o formazione di nuovi stati, GlobalStat calcola in maniera dinamica i dati aggregati nel caso in cui le fonti originali li offrano formato, esempio lampante la dissoluzione della Cecoslovacchia fino al 1993.\newline
+Anche in fase di visualizzazione quindi, i dati, rispecchieranno di anno in anno la composizione degli stati facenti parte dell'ONU, rendendo più complesso il calcolo di medie e la possibilità di effettuare comparazioni nel tempo.
+
+Seguendo la prassi di statistica internazionale, GlobalStat calcola e rende disponibile dati aggregati se sono soddisfatte due condizioni:
+
+\begin{enumerate}
+  \item L'indicatore in questione è disponibile per più della metà dei membri del gruppo;
+  \item Se la prima condizione è soddisfatta, il valore aggregato viene calcolato solo se la popolazione totale dei paesi per i quali sono disponibili i dati rappresenta almeno 2/3 della popolazione totale del gruppo.
+\end{enumerate}
+
 \chapter{Architettura e tecnologie utilizzate}
 \chapter{Risultati}
 \chapter{Commenti finali}
