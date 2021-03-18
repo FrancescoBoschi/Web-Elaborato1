@@ -57,6 +57,45 @@ Considerando l'obbiettivo alla base del progetto e del carattere multidimensiona
 \end{itemize}
 
 Emerge quindi come GlobalStat non miri solo e migliorare il lato strettamente economico di un paese, ma anche a informare sul modo in cui gli uomini vivono, le libertà di cui godono e i limiti che devono affrontare.
+
+\section{Presentazione del sito WEB}
+
+\begin{figure}[ht]
+  \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{globalStat.PNG} 
+  \caption{Homepage del sito GlobalStat.}
+\end{figure}
+
+Il sito web si presenta con un'interfaccia tanto semplice quanto chiara e intuitiva, che vede sulla parte sinistra il menù suddiviso in categorie e sottocategorie con tutti gli indicatori disponibili, mentre in quella destra voci per ottenere informazioni sul progetto.
+
+\begin{figure}[ht]
+  \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{mappa.PNG} 
+  \caption{Mappa del sito GlobalStat.}
+\end{figure}
+
+Una volta selezionato l'indicatore, di default verranno mostrate le statistiche in modalità mappa, dalla quale è possibile selezionare lo stato di interesse per visualizzare le informazioni specifiche, oltre che applicare i filtri messi a disposizione.\newline
+La visuale ad istogramma rappresenta gli stessi dati, presentati però sotto forma differente.
+
+\begin{figure}[ht]
+  \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{trend.PNG} 
+  \caption{Trend del sito GlobalStat.}
+\end{figure}
+
+La modalità di visualizzazione trend permette di avere una visione chiara dell'andamento dell'indicatore al passare degli anni, a livello globale o nel paese selezionato tramite gli appositi filtri.
+
+\begin{figure}[ht]
+  \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{data_table.PNG} 
+  \caption{Tabella del sito GlobalStat.}
+\end{figure}
+
+L'ultima modalità di visualizzazione è certamente quella più riutilizzabile per sviluppare progetti esterni a GlobalStat, in quanto permette non solo di consultare, ma anche di scaricare i dati relativi all'indicatore selezionato dettagliati per ciascun paese e anno.\newline
+Il download viene fatto in formato xlsx, quindi sotto forma di foglio di calcolo Excell. Proprio per questo motivo, in questa sezioni non sono sfruttate particolari tecnologie relative al web semantico.
+
+\begin{figure}[ht]
+  \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{info.PNG} 
+  \caption{Info del sito GlobalStat.}
+\end{figure}
+
+Ciascuna sezione analizzata fino ad ora presenta inoltre un la classica icona delle informazioni: alla sua pressione un popup permette all'utente di ottenere informazioni dettagliate sul significato dell'indicatore, note aggiuntive e soprattutto la fonte dalla quale è stato reperito, la quale spesso, come analizzeremo nel capitolo 4, fa ampio uso delle tecnologie del web semantico.
 \chapter{Metodologie e sorgenti dati}
 I dati raccolti sono sensibili al carattere di vasta portata del progetto; per questo motivo è stato necessario provvedere apposite metodologie atte a produrre statistiche effettivamente utili e soprattutto il più possibile affidabili.\newline
 GlobalStats raccoglie dati sui 193 stati nazionali sovrani riconosciuti membri delle Nazioni Unite (ONU) \cite{ONU} e, sulla base di questi, fornisce una panoramica sulle prestazioni dei singoli stati, dei continenti, di undici comunità di cooperazione e integrazione regionale e di organizzazioni internazionali.\newline
@@ -84,6 +123,11 @@ Se le condizioni 1 e 2 sono soddisfatte, GlobalStat applica metodologie di calco
 
 GlobalStat si affida a ben 113 fonti differenti di dati dipendentemente dagli indicatori necessari e dai paesi di riferimento.\newline
 Pertanto, unendo questo fattore alle metodologie sopra elencate, quando consultano GlobalStat, gli utenti dovrebbero essere consapevoli di questa particolarità multi-fonte ed essere quindi cauti nel confrontare dati e indicatori differenti, poiché potrebbero potenzialmente variare e presentare incoerenze dipendentemente dal momento temporale, dalle pratiche di raccolta e dalla loro specificità.
+
+\begin{itemize}
+  \item Gli aggregati dei dati dei singoli paesi, se espressi come valori assoluti, sono calcolati semplicemente tramite la somma ignorando i valori mancanti.
+  \item  Gli aggregati dei dati dei singoli paesi, se espressi come valori rapporti (tassi/proporzione/percentuali), sono calcolati come medie ponderate sulla base del conteggio della popolazione sul totale, ignorando i valori mancanti.
+\end{itemize}
 
 \chapter{Architettura e tecnologie utilizzate}
 
