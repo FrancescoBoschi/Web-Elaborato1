@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.16)  18 MAR 2021 19:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.16)  26 MAR 2021 13:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -188,53 +188,74 @@ Language: italian 2020/05/21 v.1.4.04 Italian support for the babel system
 )) (d:/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count269
-)
-Package hyperref Info: Option `colorlinks' set `false' on input line 13.
+) (d:/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count270
+\lst@gtempboxa=\box47
+\lst@token=\toks19
+\lst@length=\count271
+\lst@currlwidth=\dimen146
+\lst@column=\count272
+\lst@pos=\count273
+\lst@lostspace=\dimen147
+\lst@width=\dimen148
+\lst@newlines=\count274
+\lst@lineno=\count275
+\lst@maxwidth=\dimen149
+ (d:/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count276
+\lst@skipnumbers=\count277
+\lst@framebox=\box48
+) (d:/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+Package hyperref Info: Option `colorlinks' set `false' on input line 31.
  (d:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-02 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count270
-\l__pdf_internal_box=\box47
+\l__color_backend_stack_int=\count278
+\l__pdf_internal_box=\box49
 ) (d:/File Università/Magistrale/ANNO 2/SEMESTRE 2/Web Semantico/Elaborato1/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
  (d:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count271
-\scratchdimen=\dimen146
-\scratchbox=\box48
-\nofMPsegments=\count272
-\nofMParguments=\count273
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count274
-\MPscratchDim=\dimen147
-\MPnumerator=\count275
-\makeMPintoPDFobject=\count276
-\everyMPtoPDFconversion=\toks20
+\scratchcounter=\count279
+\scratchdimen=\dimen150
+\scratchbox=\box50
+\nofMPsegments=\count280
+\nofMParguments=\count281
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count282
+\MPscratchDim=\dimen151
+\MPnumerator=\count283
+\makeMPintoPDFobject=\count284
+\everyMPtoPDFconversion=\toks21
 ) (d:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (d:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 20.
+Package hyperref Info: Link coloring OFF on input line 38.
  (d:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (d:/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
@@ -242,17 +263,17 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (d:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count277
+\c@section@level=\count285
 )
-LaTeX Info: Redefining \ref on input line 20.
-LaTeX Info: Redefining \pageref on input line 20.
-LaTeX Info: Redefining \nameref on input line 20.
+LaTeX Info: Redefining \ref on input line 38.
+LaTeX Info: Redefining \pageref on input line 38.
+LaTeX Info: Redefining \nameref on input line 38.
  (d:/File Università/Magistrale/ANNO 2/SEMESTRE 2/Web Semantico/Elaborato1/main.out) (d:/File Università/Magistrale/ANNO 2/SEMESTRE 2/Web Semantico/Elaborato1/main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
-LaTeX Info: Redefining \it@ocap on input line 20.
-LaTeX Info: Redefining \it@ccap on input line 20.
+LaTeX Info: Redefining \it@ocap on input line 38.
+LaTeX Info: Redefining \it@ccap on input line 38.
 
 
 File italian.ldf warning: 
@@ -260,12 +281,13 @@ italian.ldf    With OT1 encoding guillemets are poorly faked
 italian.ldf    Use T1 encoding
 italian.ldf    or specify a font with command \CaporaliFrom
 italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 20.
+italian.ldf    on input line 38.
 
+\c@lstlisting=\count286
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 23.
+(Font)              <14.4> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 23.
+(Font)              <7> on input line 41.
 [1
 
 {d:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (d:/File Università/Magistrale/ANNO 2/SEMESTRE 2/Web Semantico/Elaborato1/main.toc
@@ -282,7 +304,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.27 \chapter
+l.45 \chapter
              {Introduzione} [1
 
 ]
@@ -293,69 +315,89 @@ Capitolo 1.
 Capitolo 2.
 [3
 
-]
-<./images//globalStat.PNG, id=68, 1445.4pt x 727.96968pt>
+] [4]
+<./images//globalStat.PNG, id=82, 1445.4pt x 727.96968pt>
 File: ./images//globalStat.PNG Graphic file (type png)
 <use ./images//globalStat.PNG>
-Package pdftex.def Info: ./images//globalStat.PNG  used on input line 64.
+Package pdftex.def Info: ./images//globalStat.PNG  used on input line 94.
 (pdftex.def)             Requested size: 389.99857pt x 196.42114pt.
-<./images//mappa.PNG, id=70, 1443.89438pt x 729.47531pt>
+<./images//mappa.PNG, id=84, 1443.89438pt x 729.47531pt>
 File: ./images//mappa.PNG Graphic file (type png)
 <use ./images//mappa.PNG>
-Package pdftex.def Info: ./images//mappa.PNG  used on input line 71.
+Package pdftex.def Info: ./images//mappa.PNG  used on input line 99.
 (pdftex.def)             Requested size: 389.98889pt x 197.02774pt.
- [4 <d:/File Università/Magistrale/ANNO 2/SEMESTRE 2/Web Semantico/Elaborato1/./images//globalStat.PNG>]
-<./images//trend.PNG, id=77, 1442.38875pt x 727.96968pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./images//trend.PNG, id=85, 1442.38875pt x 727.96968pt>
 File: ./images//trend.PNG Graphic file (type png)
 <use ./images//trend.PNG>
-Package pdftex.def Info: ./images//trend.PNG  used on input line 79.
+Package pdftex.def Info: ./images//trend.PNG  used on input line 104.
 (pdftex.def)             Requested size: 390.0004pt x 196.83214pt.
-<./images//data_table.PNG, id=78, 1441.63594pt x 727.21687pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./images//data_table.PNG, id=86, 1441.63594pt x 727.21687pt>
 File: ./images//data_table.PNG Graphic file (type png)
 <use ./images//data_table.PNG>
-Package pdftex.def Info: ./images//data_table.PNG  used on input line 86.
+Package pdftex.def Info: ./images//data_table.PNG  used on input line 109.
 (pdftex.def)             Requested size: 389.99483pt x 196.72845pt.
-<info.PNG, id=79, 29.81137pt x 29.81137pt>
-File: info.PNG Graphic file (type png)
-<use info.PNG>
-Package pdftex.def Info: info.PNG  used on input line 94.
-(pdftex.def)             Requested size: 390.39304pt x 390.39304pt.
- [5 <d:/File Università/Magistrale/ANNO 2/SEMESTRE 2/Web Semantico/Elaborato1/./images//mappa.PNG>] [6 <d:/File Università/Magistrale/ANNO 2/SEMESTRE 2/Web Semantico/Elaborato1/./images//trend.PNG> <d:/File Università/Magistrale/ANNO 2/SEMESTRE 2/Web Semantico/Elaborato1/./images//data_table.PNG>] [7 <d:/texlive/2020/texmf-dist/tex/latex/notes/info.png (PNG copy)>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./images//info_global.PNG, id=87, 674.52pt x 453.19313pt>
+File: ./images//info_global.PNG Graphic file (type png)
+<use ./images//info_global.PNG>
+Package pdftex.def Info: ./images//info_global.PNG  used on input line 114.
+(pdftex.def)             Requested size: 390.00739pt x 262.03621pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <d:/File Università/Magistrale/ANNO 2/SEMESTRE 2/Web Semantico/Elaborato1/./images//globalStat.PNG>] [6 <d:/File Università/Magistrale/ANNO 2/SEMESTRE 2/Web Semantico/Elaborato1/./images//mappa.PNG> <d:/File Università/Magistrale/ANNO 2/SEMESTRE 2/Web Semantico/Elaborato1/./images//trend.PNG>] [7 <d:/File Università/Magistrale/ANNO 2/SEMESTRE 2/Web Semantico/Elaborato1/./images//data_table.PNG> <d:/File Università/Magistrale/ANNO 2/SEMESTRE 2/Web Semantico/Elaborato1/./images//info_global.PNG>]
 Capitolo 3.
 [8
 
 ] [9]
 Capitolo 4.
-[10
 
-]
-Capitolo 5.
-
-Underfull \hbox (badness 10000) in paragraph at lines 135--138
+Underfull \hbox (badness 10000) in paragraph at lines 151--154
 
  []
 
-(d:/File Università/Magistrale/ANNO 2/SEMESTRE 2/Web Semantico/Elaborato1/main.bbl [11
+[10
 
-]) [12
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 156.
+ [11] [12] [13]
+Capitolo 5.
+(d:/File Università/Magistrale/ANNO 2/SEMESTRE 2/Web Semantico/Elaborato1/main.bbl [14
+
+]
+Underfull \hbox (badness 1968) in paragraph at lines 24--26
+[]\OT1/cmr/m/n/12 Servizio ri-cer-ca del par-la-men-to eu-ro-peo.  On-li-ne; con-sul-ta-to il
+ []
+
+) [15
 
 ] (d:/File Università/Magistrale/ANNO 2/SEMESTRE 2/Web Semantico/Elaborato1/main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: DE3CBBE9BD6E1DCFA98F9DA114D72F60;929.
+(rerunfilecheck)             Checksum: 24ECF96D21B661CA95CE23AC1D1F8195;1100.
  ) 
 Here is how much of TeX's memory you used:
- 9446 strings out of 479022
- 137594 string characters out of 5863339
- 468816 words of memory out of 5000000
- 26764 multiletter control sequences out of 15000+600000
- 409234 words of font info for 46 fonts, out of 8000000 for 9000
+ 11180 strings out of 479022
+ 160376 string characters out of 5863339
+ 872188 words of memory out of 5000000
+ 28440 multiletter control sequences out of 15000+600000
+ 410318 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,6n,74p,507b,395s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on "d:/File Università/Magistrale/ANNO 2/SEMESTRE 2/Web Semantico/Elaborato1/main.pdf" (13 pages, 481488 bytes).
+ 71i,6n,74p,564b,1847s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on "d:/File Università/Magistrale/ANNO 2/SEMESTRE 2/Web Semantico/Elaborato1/main.pdf" (16 pages, 556638 bytes).
 PDF statistics:
- 152 PDF objects out of 1000 (max. 8388607)
- 122 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
- 74 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 245 PDF objects out of 1000 (max. 8388607)
+ 207 compressed objects within 3 object streams
+ 80 named destinations out of 1000 (max. 500000)
+ 90 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{istituto_universitario_europeo}
 European university institute.
@@ -22,10 +22,34 @@ Organizzazione per la cooperazione e lo sviluppo economico.
 
 \bibitem{servizio_di_ricerca_parlamento_europeo}
 Servizio ricerca del parlamento europeo.
-\newblock Online; consultato il 16/03/2021.
+\newblock Online; consultato il 19/03/2021.
 
 \bibitem{ONU}
 Stati membri delle nazioni unite.
 \newblock Online; consultato il 17/03/2021.
+
+\bibitem{data_catalog}
+Datacatalog worldbank.
+\newblock Online; consultato il 25/03/2021.
+
+\bibitem{DC}
+Dublin core (dc).
+\newblock Online; consultato il 26/03/2021.
+
+\bibitem{DCAT}
+Data catalog vocabulary (dcat).
+\newblock Online; consultato il 26/03/2021.
+
+\bibitem{SIOC}
+Semantically-interlinked online communities (sioc).
+\newblock Online; consultato il 26/03/2021.
+
+\bibitem{OWL}
+Web ontology language (owl).
+\newblock Online; consultato il 26/03/2021.
+
+\bibitem{DC_with_OWL}
+Dublin core and owl.
+\newblock Online; consultato il 26/03/2021.
 
 \end{thebibliography}
